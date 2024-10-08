@@ -4,4 +4,4 @@
 
 2) Scrub -> make the animation smoother.
 
-3)Pin -> as the name suggest pin the element on the screen for the time span of element scrolling.
+3) Pin -> as the name suggest pin the element on the screen for the time span of element scrolling.
